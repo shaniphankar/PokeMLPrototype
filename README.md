@@ -5,3 +5,4 @@
    We first tried modifying the original repository jupyter notebook by making changes to incorporate noise. THe file can be found name the same as the orignal file.
    
    The pokemon images that we used came from the musicmilif link https://github.com/musicmilif/Pokemon-Generator
+In our own version of the notebook, we assumed that the pokemon images were in a folder title Pokemon and used it directly without regex expressions.
